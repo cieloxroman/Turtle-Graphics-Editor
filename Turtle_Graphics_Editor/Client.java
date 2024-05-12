@@ -6,7 +6,7 @@ import java.util.*;
  * matrices with the words/numbers "*", "*","*", and "*".
  * Also I am using the naive strategy, so the lines may look a little wonky, but I found its the better option.
  * 
- * Please play through all the selections to view all the functionalities in this program. Or just type in 'q' then 'y' to see "SE 350".
+ * Please play through all the selections to view all the functionalities in this program. Or just type in 'q' then 'y' to see "** ***".
  * 
  */
 public class Client {
